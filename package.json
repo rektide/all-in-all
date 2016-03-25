@@ -1,0 +1,19 @@
+{
+  "name": "all-in-all",
+  "version": "1.0.0",
+  "description": "Promise.all for a growable array",
+  "main": "all-in-all.js",
+  "scripts": {
+    "test": "node .test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://archive.voodoowarez.com/all-in-all"
+  },
+  "keywords": ["Promise.all"],
+  "author": "rektide de la faye",
+  "license": "X",
+  "devDependencies": {
+    "blue-tape": "^0.2.0"
+  }
+}
